@@ -1,4 +1,4 @@
-- 👋 Hi, i'm Arjun K Nadlumane, a passionate self-taught web developer and a an ENGINEERING student from Banglore, India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+- 👋 Hi, I'm Arjun K Nadlumane, a passionate self-taught web developer and a an ENGINEERING student from Banglore, India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 - Working as an Intern at MP's office
 - extended reality enthusiast 
 - No much Public projects, working on private projects😉
