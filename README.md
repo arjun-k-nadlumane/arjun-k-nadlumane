@@ -2,6 +2,7 @@
 - extended reality enthusiast 
 - Ex Intern at MP's office
 - Samsung Prism Intern
+- Academic research at Bosch
 - No much Public projects, working on private projects😉
 - Linkedin- http://www.linkedin.com/in/%20arjun-nadlumane
 <!---
